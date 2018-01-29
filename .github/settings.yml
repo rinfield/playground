@@ -5,7 +5,7 @@ repository:
   name: playground
 
   # A short description of the repository that will show up on GitHub
-  description: just a playground
+  description: Hello, just a playground
 
   # A URL with more information about the repository
   homepage: https://github.com/rinfield/playground
